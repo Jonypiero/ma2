@@ -5,9 +5,9 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Jacob Berg Christensen | 172714 |
+| Sebastian Langhorn | 131058 |
+| Christian Fredbo-Nielsen | 172748 |
 
 ***
 
